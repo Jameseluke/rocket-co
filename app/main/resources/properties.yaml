@@ -1,0 +1,14 @@
+OPEN_WEATHER:
+  HOST: https://api.openweathermap.org
+  BASE_PATH: /data/2.5
+  FORECAST_PATH: /forecast
+  # Celsius
+  UNITS: metric
+  # Fahrenheit
+  # UNITS: imperial
+
+LAUNCH_WINDOWS:
+  RETURN_SIZE: 5
+  DESIRED_DEG: 220
+  DEG_MODIFIER: 0.1
+  DESIRED_TEMP: 20
